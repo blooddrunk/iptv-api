@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250503040631 +0800">
+<tv date="20250503102246 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -4271,5 +4271,17 @@
 	</programme>
 	<programme channel="黑莓动画" start="20250503083100 +0800" stop="20250503101900 +0800">
 		<title lang="zh">迷宫的十字路口 中文版</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250503101900 +0800" stop="20250503120700 +0800">
+		<title lang="zh">银翼的魔术师 中文版</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250503120700 +0800" stop="20250503140200 +0800">
+		<title lang="zh">战栗的乐谱 中文版</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250503140200 +0800" stop="20250503154400 +0800">
+		<title lang="zh">天空的遇难船 中文版</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250503154400 +0800" stop="20250503173300 +0800">
+		<title lang="zh">沉默的15分钟 中文版</title>
 	</programme>
 </tv>
